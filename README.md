@@ -1,3 +1,6 @@
+See releases for the latest release.
+Scroll down for read me
+
 <img width="1512" height="2016" alt="vu2" src="https://github.com/user-attachments/assets/05a6aa7d-aa94-42e6-8d3b-9c912795302b" />
 This program is for the low cost 2.8" cheap yellow display board (CYD). The one I wrote for has the older micro-USB port. Newer boards may have different pin assignments so check your documentation. 
 Power is from the USB connector. The USB port A on the rear of the radio may be used to power the display.
@@ -14,5 +17,8 @@ Menu - ADV menu item 0 - Meter 1 (left VU meter) transmit meter value (and alway
 Menu - ADV menu item 1 = Meter 2 (right VU meter) transmit meter value
 Menu - ADV menu item 2 and item 3 = Output level percent. Turn the RF Gain knob completely counter-clockwise and observe meter 1 display. Adjust the level for the S meter to indicate full scale.
 Use this value for both menu item 2 and 3. By default, my radio is set to 80% for full scale deflection.
+
+The program is free for PRIVATE USE ONLY and my not be used for any resale or commercial applications. SO there.
+73s. WD5ACP
 
 
