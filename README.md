@@ -1,7 +1,7 @@
-See releases for the latest release.
-Scroll down for read me
+by Guy Zebrick WD5ACP
 
-<img width="1512" height="2016" alt="vu2" src="https://github.com/user-attachments/assets/05a6aa7d-aa94-42e6-8d3b-9c912795302b" />
+<img width="522" height="728" alt="vusnall" src="https://github.com/user-attachments/assets/438deb9b-a565-4f91-9af4-475d4295642e" />
+
 This program is for the low cost 2.8" cheap yellow display board (CYD). The one I wrote for has the older micro-USB port. Newer boards may have different pin assignments so check your documentation. 
 Power is from the USB connector. The USB port A on the rear of the radio may be used to power the display.
 
