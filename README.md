@@ -1,5 +1,7 @@
 by Guy Zebrick WD5ACP
 
+Version 1.5 fixes a bug that didn't let the peak hold decay slowly for the right-side meter. 
+
 <img width="522" height="728" alt="vusnall" src="https://github.com/user-attachments/assets/438deb9b-a565-4f91-9af4-475d4295642e" />
 
 This program is for the low cost 2.8" cheap yellow display board (CYD). The one I wrote for has the older micro-USB port. Newer boards may have different pin assignments so check your documentation. 
