@@ -23,4 +23,19 @@ Use this value for both menu item 2 and 3. By default, my radio is set to 80% fo
 The program is free for PRIVATE USE ONLY and my not be used for any resale or commercial applications. SO there.
 73s. WD5ACP
 
+BASICS below... see youtube for detailed how-too videos on using CYD and Visual Studio...
+
+Purchase a 2.8" CYD and plug it into a USB port on your computer. A pre-loaded demo program may start, that's okay...
+Select the CODE button to download the entire folder for this application from github onto your local PC, Put it somewhere you can find it.
+
+1. Download and install free Visual Studio programming tool...
+2. https://visualstudio.microsoft.com/
+3. Open Visual Studio - go to Views, select Extensions, install platformIO extension
+4. Select the new platform IO extension, and select PIO Quick Access >  Home > Open 
+5. In the Welcome to PlatformIO screen, select Open Project and select the folder you download from github
+6. The download app folder and subfolders will appear in the Explorer file tree. Select src (source code) then main.cpp (c-plus-plus)... that's the program!
+7. At the bottom of the screen you should see an check box (compile), and a right arrow (compile + download). Also a COM port should be indicated. The COM port needs point to your CYD that's plugged in.
+8. click on the right-arrow to compile the code and download it into the CYD. If there are no errors, the program will start! Enjoy!
+
+
 
