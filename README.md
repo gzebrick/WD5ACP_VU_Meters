@@ -12,6 +12,11 @@ The CYD board only has one useable analog input, so a 2nd circuit board, the low
 Amazon is used. It connects using the small 4-wire connecting cable to the CYD for power and data. A mini stereo plug and cable is required to connect the A/D board to the meter jack on the radio for analog inputs
 0 and 1.
 
+cheap CYD from Amazon
+https://a.co/d/0iYw6Cex
+Plug and play A/D board from Amazon (you still need to wire up a stereo cable with mini-plug to connect to the meter output of your rig)
+https://a.co/d/0aiOY2qz
+
 The screen brightness and the meter types for the left and right meter modified using the touch screen. Touch top-left to dim, top-right to brighten the screen.
 Touch the meter type on the bottom of the left and right meters to toggle through PWR, ALC, VOLTS, COMP, AMPS, SWR. and RAW input voltage (0-3 volts).
 Meter types and brightness levels are stored in non-volatile memory.  Once the meter type is selected, the radio must be programmed to match. For the Kenwood 890:
